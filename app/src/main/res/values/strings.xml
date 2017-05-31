@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Контакты</string>
+    <string name="age">Возраст: </string>
+    <string name="city">Город:</string>
+    <string name="e_mail">E-mail: </string>
+    <string name="search">Поиск</string>
+    <string name="sort_by">Сортировка по:</string>
+    <string-array name="sort">
+        <item name="name">Имя</item>
+        <item name="name">Фамилия</item>
+        <item name="name">Год рождения</item>
+        <item name="name">Город</item>
+        <item name="name">E-mail</item>
+        </string-array>
+</resources>
